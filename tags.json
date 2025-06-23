@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "Tag": "capital"
+  },
+  {
+    "id": 2,
+    "Tag": "decline"
+  },
+  {
+    "id": 3,
+    "Tag": "dip"
+  },
+  {
+    "id": 4,
+    "Tag": "down"
+  },
+  {
+    "id": 5,
+    "Tag": "earnings"
+  },
+  {
+    "id": 6,
+    "Tag": "fall"
+  },
+  {
+    "id": 7,
+    "Tag": "forecast"
+  },
+  {
+    "id": 8,
+    "Tag": "gain"
+  },
+  {
+    "id": 9,
+    "Tag": "growth"
+  },
+  {
+    "id": 10,
+    "Tag": "high"
+  },
+  {
+    "id": 11,
+    "Tag": "increase"
+  },
+  {
+    "id": 12,
+    "Tag": "index"
+  },
+  {
+    "id": 13,
+    "Tag": "inflation"
+  },
+  {
+    "id": 14,
+    "Tag": "investor"
+  },
+  {
+    "id": 15,
+    "Tag": "limited"
+  },
+  {
+    "id": 16,
+    "Tag": "loss"
+  },
+  {
+    "id": 17,
+    "Tag": "low"
+  },
+  {
+    "id": 18,
+    "Tag": "market"
+  },
+  {
+    "id": 19,
+    "Tag": "more"
+  },
+  {
+    "id": 20,
+    "Tag": "peak"
+  },
+  {
+    "id": 21,
+    "Tag": "profit"
+  },
+  {
+    "id": 22,
+    "Tag": "rise"
+  },
+  {
+    "id": 23,
+    "Tag": "risen"
+  },
+  {
+    "id": 24,
+    "Tag": "share"
+  },
+  {
+    "id": 25,
+    "Tag": "stock"
+  },
+  {
+    "id": 26,
+    "Tag": "substantial"
+  },
+  {
+    "id": 27,
+    "Tag": "surged"
+  },
+  {
+    "id": 28,
+    "Tag": "top"
+  },
+  {
+    "id": 29,
+    "Tag": "up"
+  },
+  {
+    "id": 30,
+    "Tag": "volatility"
+  }
+]
