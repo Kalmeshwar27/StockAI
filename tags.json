@@ -1,114 +1,42 @@
 [
   {
     "id": 1,
-    "Tag": "bullish"
-  },
-  {
-    "id": 2,
-    "Tag": "decline"
-  },
-  {
-    "id": 3,
-    "Tag": "decrease"
-  },
-  {
-    "id": 4,
-    "Tag": "dip"
-  },
-  {
-    "id": 5,
-    "Tag": "down"
-  },
-  {
-    "id": 6,
-    "Tag": "earnings"
-  },
-  {
-    "id": 7,
-    "Tag": "fall"
-  },
-  {
-    "id": 8,
-    "Tag": "fiscal"
-  },
-  {
-    "id": 9,
-    "Tag": "forecast"
-  },
-  {
-    "id": 10,
-    "Tag": "gain"
-  },
-  {
-    "id": 11,
-    "Tag": "growth"
-  },
-  {
-    "id": 12,
-    "Tag": "high"
-  },
-  {
-    "id": 13,
     "Tag": "increase"
   },
   {
-    "id": 14,
-    "Tag": "inflation"
+    "id": 2,
+    "Tag": "growth"
   },
   {
-    "id": 15,
-    "Tag": "limited"
+    "id": 3,
+    "Tag": "shares"
   },
   {
-    "id": 16,
-    "Tag": "loss"
-  },
-  {
-    "id": 17,
-    "Tag": "low"
-  },
-  {
-    "id": 18,
+    "id": 4,
     "Tag": "market"
   },
   {
-    "id": 19,
-    "Tag": "more"
+    "id": 5,
+    "Tag": "stocks"
   },
   {
-    "id": 20,
-    "Tag": "profit"
+    "id": 6,
+    "Tag": "stock stock market"
   },
   {
-    "id": 21,
-    "Tag": "rise"
+    "id": 7,
+    "Tag": "stock Stock Market"
   },
   {
-    "id": 22,
-    "Tag": "risen"
+    "id": 8,
+    "Tag": "fell"
   },
   {
-    "id": 23,
-    "Tag": "share"
+    "id": 9,
+    "Tag": "investors"
   },
   {
-    "id": 24,
-    "Tag": "stock"
-  },
-  {
-    "id": 25,
-    "Tag": "substantial"
-  },
-  {
-    "id": 26,
-    "Tag": "surged"
-  },
-  {
-    "id": 27,
-    "Tag": "top"
-  },
-  {
-    "id": 28,
-    "Tag": "up"
+    "id": 10,
+    "Tag": "rose"
   }
 ]
