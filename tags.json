@@ -1,42 +1,42 @@
 [
   {
     "id": 1,
-    "Tag": "increase"
+    "Tag": "capital"
   },
   {
     "id": 2,
-    "Tag": "growth"
+    "Tag": "decline"
   },
   {
     "id": 3,
-    "Tag": "shares"
+    "Tag": "fall"
   },
   {
     "id": 4,
-    "Tag": "market"
+    "Tag": "flat"
   },
   {
     "id": 5,
-    "Tag": "stocks"
+    "Tag": "gain"
   },
   {
     "id": 6,
-    "Tag": "stock stock market"
+    "Tag": "growth"
   },
   {
     "id": 7,
-    "Tag": "stock Stock Market"
+    "Tag": "high"
   },
   {
     "id": 8,
-    "Tag": "fell"
+    "Tag": "higher"
   },
   {
     "id": 9,
-    "Tag": "investors"
+    "Tag": "loss"
   },
   {
     "id": 10,
-    "Tag": "rose"
+    "Tag": "low"
   }
 ]

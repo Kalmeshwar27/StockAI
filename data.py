@@ -3,7 +3,7 @@ import json
 from collections import Counter
 
 # Load Excel
-df = pd.read_excel("data-3.xlsx")
+df = pd.read_excel("data-4.xlsx")
 
 # Clean column names
 df.columns = df.columns.str.strip()
@@ -12,7 +12,7 @@ df.columns = df.columns.str.strip()
 df['keywords'] = df['keywords'].ffill()
 
 # Drop rows where all key fields are empty
-df = df.dropna(subset=["articleTitle", "summary", "overview", "articleLink"], how='all')
+df = df.dropna(subset=["articleTitle", "question", "answer", "overview", "articleLink"], how='all')
 
 # Fill remaining NaNs with empty string
 df = df.fillna("")
@@ -37,7 +37,8 @@ for i, row in filtered_df.iterrows():
         "id": len(records) + 1,
         "keywords": row["keywords"],
         "articleTitle": row["articleTitle"],
-        "summary": row["summary"],
+        "question": row["question"],
+        "answer": row["answer"],
         "overview": row["overview"],
         "articleLink": row["articleLink"]
     })
