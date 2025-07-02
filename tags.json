@@ -5,38 +5,38 @@
   },
   {
     "id": 2,
-    "Tag": "decline"
-  },
-  {
-    "id": 3,
-    "Tag": "fall"
-  },
-  {
-    "id": 4,
-    "Tag": "flat"
-  },
-  {
-    "id": 5,
-    "Tag": "gain"
-  },
-  {
-    "id": 6,
     "Tag": "growth"
   },
   {
-    "id": 7,
+    "id": 3,
     "Tag": "high"
   },
   {
-    "id": 8,
+    "id": 4,
     "Tag": "higher"
   },
   {
-    "id": 9,
+    "id": 5,
+    "Tag": "increased"
+  },
+  {
+    "id": 6,
     "Tag": "loss"
   },
   {
+    "id": 7,
+    "Tag": "lower"
+  },
+  {
+    "id": 8,
+    "Tag": "market"
+  },
+  {
+    "id": 9,
+    "Tag": "more"
+  },
+  {
     "id": 10,
-    "Tag": "low"
+    "Tag": "rise"
   }
 ]
