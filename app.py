@@ -43,21 +43,9 @@ def home():
     return "✅ Flask API is running. Use /tags or /data."
 
 @app.route("/tags", methods=["GET"])
-def get_tags_with_articles():
-    result = []
-    for tag in tags_data:
-        tag_name = tag["Tag"]
-        tag_id = tag["id"]
-        articles = [
-            article for article in article_data
-            if article.get("keywords", "").strip().lower() == tag_name.lower()
-        ]
-        result.append({
-            "id": tag_id,
-            "tag": tag_name,
-            "articles": articles
-        })
-    return jsonify(result)
+def get_all_articles_as_array():
+    return jsonify(article_data)
+
 
 @app.route("/data", methods=["GET"])
 def get_all_data():

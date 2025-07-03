@@ -30,7 +30,7 @@ filtered_df = df[df['keywords'].isin(top_keywords)]
 filtered_df['keyword_rank'] = filtered_df['keywords'].apply(lambda x: top_keywords.index(x))
 filtered_df = filtered_df.sort_values(by='keyword_rank')
 
-# Step 5: Build JSON records
+# Step 5: Build JSON array (no wrapper object)
 records = []
 for i, row in filtered_df.iterrows():
     records.append({
@@ -43,8 +43,8 @@ for i, row in filtered_df.iterrows():
         "articleLink": row["articleLink"]
     })
 
-# Step 6: Write JSON file
+# Step 6: Save as array only
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(records, f, indent=2, ensure_ascii=False)
 
-print("✅ JSON file created with top 10 keywords ordered by frequency.")
+print("✅ JSON array file created exactly as boss wants.")

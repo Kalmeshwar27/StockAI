@@ -1,4 +1,4 @@
-[
+const articles = [
   {
     "id": 1,
     "keywords": "market",
@@ -1142,4 +1142,4 @@
     "overview": "Supertech EV IPO, 2990 crore, a 20 discount",
     "articleLink": "https://www.livemint.com/market/stock-market-news/supertech-ev-share-price-lists-with-20-discount-at-rs-73-60-on-bse-sme-slides-further-postlisting-11751430961133.html"
   }
-]
+];
